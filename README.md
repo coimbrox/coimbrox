@@ -3,11 +3,11 @@
 
 ## Um Pouco Sobre Mim
 
-- 🎤 Estudando NodeJS e JavaScript
+- 🎤 Estudando Dart e Flutter
 - 📺 Gosto muito da Cultura Geek
 - 🌱 Formado Análise e Desenvolvimento de Sistemas
-- 💬 Atualmente focado em Desenvolvimento Web e Back-end ( JavaScript, TypeScript) e sempre em busca de novos conhecimentos.
-- ⚡ Acabei de me mudar da Bahia para o Rio Grande do Sul
+- 💬 Atualmente focado em Desenvolvimento Mobile e sempre em busca de novos conhecimentos.
+- ⚡ Moro no Rio Grande do Sul
 - 🛸 Apaixonado por games e tecnologia, atuei como árbitro de esporte eletrônicos nos Jogos Universitários Brasileiros e Diversos projetos voluntários com foco em produções de eventos Geeks.
 
 ## Outros locais onde podem me encontrar
