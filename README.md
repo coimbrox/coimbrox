@@ -3,9 +3,9 @@
 
 ## Um Pouco Sobre Mim
 
-- 🎤 Estudando Dart e Flutter
+- 🎤 Desenvolvedor Angular 
 - 📺 Gosto muito da Cultura Geek
-- 🌱 Formado Análise e Desenvolvimento de Sistemas
+- 🌱 Formado Análise e Desenvolvimento de Sistemas e Pós Graduado em Análise de Dados com MBA em Big Data
 - 💬 Atualmente focado em Desenvolvimento Mobile e sempre em busca de novos conhecimentos.
 - ⚡ Moro no Rio Grande do Sul
 - 🛸 Apaixonado por games e tecnologia, atuei como árbitro de esporte eletrônicos nos Jogos Universitários Brasileiros e Diversos projetos voluntários com foco em produções de eventos Geeks.
