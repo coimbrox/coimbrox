@@ -1,22 +1,23 @@
-### Olá, me Chamo Gabriel Coimbra 👋
-[![HitCount](http://hits.dwyl.com/coimbrox/coimbrox.svg)](http://hits.dwyl.com/coimbrox/coimbrox) 
+Hello, my name is Gabriel Coimbra 👋
 
-## Um Pouco Sobre Mim
+[![HitCount](http://hits.dwyl.com/coimbrox/coimbrox.svg)](http://hits.dwyl.com/coimbrox/coimbrox)
 
-- 🎤 Desenvolvedor Angular 
-- 📺 Gosto muito da Cultura Geek
-- 🌱 Formado Análise e Desenvolvimento de Sistemas e Pós Graduado em Análise de Dados com MBA em Big Data
-- 💬 Atualmente focado em Desenvolvimento Mobile e sempre em busca de novos conhecimentos.
-- ⚡ Moro no Rio Grande do Sul
-- 🛸 Apaixonado por games e tecnologia, atuei como árbitro de esporte eletrônicos nos Jogos Universitários Brasileiros e Diversos projetos voluntários com foco em produções de eventos Geeks.
+## A Bit About Me
 
-## Outros locais onde podem me encontrar
+- 🎤 Developer
+- HypeSquad Discord since 2017 🚀 
+- 📺 I'm a big fan of Geek Culture
+- 🌱 I hold a degree in Analysis and Systems Development and a Postgraduate degree in Data Analysis with an MBA in Big Data
+- 💬 Currently focused on Mobile Development and always seeking new knowledge.
+- ⚡ I live in Rio Grande do Sul, Brazil
+- 🛸 Passionate about games and technology, I have served as an esports referee in the Brazilian University Games and participated in various volunteer projects focused on geek event production.
 
-- [Vejam meus Tweets](twitter.com/coimbrox)
+## Other Places You Can Find Me
 
-- [Se conectem no Linkedin](https://www.linkedin.com/in/coimbrawebs/)
+- [Check out my Tweets](twitter.com/coimbrox)
+
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/coimbrawebs/)
 
 ## Status
- ![Coimbrox GitHub stats](https://github-readme-stats.vercel.app/api?username=coimbrox&show_icons=true&theme=dracula&count_private=true)
-
+![Coimbrox GitHub stats](https://github-readme-stats.vercel.app/api?username=coimbrox&show_icons=true&theme=dracula&count_private=true)
 
