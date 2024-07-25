@@ -5,7 +5,8 @@ Hello, my name is Gabriel Coimbra 👋
 ## A Bit About Me
 
 - 🎤 Developer
-- HypeSquad Discord since 2017 🚀 
+- HypeSquad Discord since 2017 🚀
+- Founder of GDG Caxias do Sul
 - 📺 I'm a big fan of Geek Culture
 - 🌱 I hold a degree in Analysis and Systems Development and a Postgraduate degree in Data Analysis with an MBA in Big Data
 - 💬 Currently focused on Mobile Development and always seeking new knowledge.
