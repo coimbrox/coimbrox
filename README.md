@@ -18,7 +18,3 @@ Hello, my name is Gabriel Coimbra 👋
 - [Check out my Tweets](twitter.com/coimbrox)
 
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/coimbrawebs/)
-
-## Status
-![Coimbrox GitHub stats](https://github-readme-stats.vercel.app/api?username=coimbrox&show_icons=true&theme=dracula&count_private=true)
-
